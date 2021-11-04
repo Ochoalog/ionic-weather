@@ -1,0 +1,6 @@
+{
+	"appId": "com.vitor.ionic",
+	"appName": "ionic-weather",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
